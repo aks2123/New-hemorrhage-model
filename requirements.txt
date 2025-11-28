@@ -2,3 +2,4 @@ tensorflow==2.12.1
 Pillow
 matplotlib
 python==3.10
+pip install -r requirements.txt

@@ -2,5 +2,5 @@ streamlit
 tensorflow
 Pillow
 matplotlib
-python==3.13
+python==3.9.19
 
